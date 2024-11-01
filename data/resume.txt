@@ -1,0 +1,110 @@
+Daniel Kainovan Handoyo
+Mobile No.: 9712 3165 | Email: daniel023@e.ntu.edu.sg | https://www.linkedin.com/in/daniel-handoyo/ |
+https://github.com/daniel-023
+EDUCATION
+Nanyang Technological University
+Aug 2022 – Jul 2026
+Bachelor of Arts (Hons) in Double Major - History and Linguistics and Multilingual Studies
+• Expected Honours (Highest Distinction), Current CGPA: 4.85/5.00
+• Relevant Coursework: Computational Thinking and Programming, Language and the Computer (Computational
+Linguistics), Language and Society through Data Analytics, Statistics for Psycholinguistics
+National University of Singapore
+Jan 2024 – May 2024
+Local Exchange Programme
+• Relevant Coursework: Artificial Intelligence: Technology and Impact (Python Programming)
+Temasek Polytechnic
+Diploma in Business
+• Relevant Coursework: Business Technology and Analytics
+PROJECTS
+Audio Deepfake Generation/Detection
+Undergraduate Research Experience on Campus (URECA)
+• Performed literature review on current deepfake audio generation approaches
+Apr 2018 – Apr 2021
+Aug 2024 – Jun 2025
+Digital Humanities: Deriving Insights from Singapore Historical Data
+Aug 2023 – Jun 2024
+Undergraduate Research Experience on Campus (URECA)
+• Developed a natural language processing application using Python and BERTopic to analyse Singapore’s
+parliamentary speeches and debates from 1965 to 1976
+• Implemented transformers-based topic modelling to identify thematic structures and trends, providing insights into
+legislative priorities
+• Enhanced user interaction by deploying the application with Streamlit, with data visualisation and topic prediction
+features
+• Presented a technology showcase at the Centre for Information Technology in Education Research Symposium
+(CITERS) 2024 hosted by the University of Hong Kong
+PROFESSIONAL EXPERIENCE
+Home Team Science and Technology Agency (HTX)
+May 2024 – Jul 2024
+Data Science Intern
+• Deployed open-source large language models (LLMs) from Hugging Face Hub and Azure Machine Learning Studio
+to build a text-processing platform
+• Constructed an evaluation pipeline to assess LLM outputs against ground truth data
+• Benchmarked multilingual speech-to-text (STT) models by calculating word error rates (WER) for code-switch audio
+transcriptions
+• Built a STT dataset with YouTube videos and captions using web-scraping scripts
+• Presented project updates and findings at biweekly meetings with supervisors and other interns
+The Digital and Intelligence Service
+Sep 2021 – Present
+Senior Military Intelligence Expert
+• Completed foundational training in cybersecurity and data analytics
+• Conducted in-depth research and synthesised findings on national security issues, including the ASEAN
+cybersecurity landscape and grey zone conflict
+• Explored practical applications of artificial intelligence in natural language processing (NLP) and computer vision
+for intelligence operations
+The Kettle Gourmet
+Sep 2020 – Jan 2021
+Digital Marketing and Operations Intern
+• Designed social media posts, website banners and other marketing collateral using Adobe Photoshop and Illustrator
+• Executed visual merchandising strategy at partner retail stores across Singapore
+• Conceptualised and hosted livestreams on Shopee Live to boost brand awareness
+Oversaw the fulfilment of large corporate orders from processing to delivery
+SKILLS
+• Programming Languages: Python
+• Libraries & Frameworks: Pandas, NumPy, scikit-learn, Hugging Face, Streamlit
+• Data Science Tools: Tableau, SPSS
+• Technologies: Generative AI (GenAI), Natural Language Processing (NLP)
+CO-CURRICULAR ACTIVITIES
+NTU History Subclub
+Aug 2023 – Jul 2024
+Financial Controller
+• Managed financial accounts and oversaw the allocation of club assets
+• Planned and monitored expenditures for various club events, including Exam Welfare Week and Mentor-Mentee
+Day
+NTU Piano Ensemble
+Sep 2022 – Jul 2023
+Media Subcommittee
+• Designed posters, tickets and other social media collateral using Canva, Adobe Photoshop and Illustrator
+• Filmed and edited publicity videos in DaVinci Resolve
+• Provided on-site support to logistics teams and performers at concerts held at the Esplanade Recital Studio and
+Nanyang Auditorium
+NTU School of Humanities
+Sep 2022 – Present
+Student Ambassador
+• Student representative of NTU’s School of Humanities (SoH)
+• Engaged with prospective students at outreach events such as the NTU Open House and SoH Pre-Admission Tea
+AWARDS AND ACHIEVEMENTS
+SoH Book Prize AY2023/2024
+Jul 2024
+• Awarded to the best performing student in the 2nd year examination for the double major degree programmes
+Dean’s List AY2022/2023
+• Awarded to top 5% of the cohort per academic year
+Sep 2023
+SAF Academic Scholarship (SAS)
+• Awarded for good military and academic performance
+Jun 2022
+CERTIFICATIONS
+Coursera
+Google Advanced Data Analytics Specialisation
+• Studied data science foundations, regression analysis, statistics, and machine learning
+Apr 2024
+Vertical Institute
+Sep 2023
+Data Analytics Bootcamp
+• Acquired proficiency in industry tools: Excel, SQL and Tableau for big data analysis, dashboard creation, and data
+visualisation
+• Completed a capstone project on financial fraud detection
+Nanyang Polytechnic
+Enhanced Data Analytics
+• Studied supervised and unsupervised machine learning techniques
+• Created workflows in the KNIME Analytics Platform for data preparation and modelling
+• Completed a capstone project involving the preparation and analysis of human resources data
